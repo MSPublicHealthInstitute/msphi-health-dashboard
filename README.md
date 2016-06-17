@@ -20,6 +20,8 @@ npm install
 npm start
 ```
 
+4 View in browser: http://localhost:3000/
+
 #### To build project for deployment, run the folowing command:
 
 ```
